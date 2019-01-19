@@ -2,6 +2,7 @@
 #define Vector2D_hpp
 
 #include <stdio.h>
+#include <cmath>
 
 #define EPSILON 0.00001
 
