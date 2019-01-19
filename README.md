@@ -7,6 +7,6 @@
 - Singleton
 - Vector2D
 - Array2D
-- BinaryUtil todo
+- BinaryUtil
 - SocketUtil todo
 
